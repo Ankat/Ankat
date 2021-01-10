@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm half finesh
 
+<img sr='https://github-readme-stats.vercel.app/api?username=ankat&&show_icons=true'>
